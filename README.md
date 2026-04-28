@@ -11,3 +11,5 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 - `docs/plan.md`: nota breve con la finalidad del proyecto.
 - `.gitignore`: exclusiones de archivos no necesarios.
 - `README.md`: documentación básica del proyecto.
+##NOTA
+Cambio realizado en una copia clonada
